@@ -13,8 +13,6 @@ Things you may want to cover:
   sqlite3 1.3.13  
   redis  
 
-* Configuration
-  access localhost:2379 successful
+* Configuration  
+  access localhost:2379 successful  
 
-# actionCableDemo
-actionCableDemo
